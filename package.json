@@ -1,0 +1,29 @@
+{
+  "name": "vcfparser",
+  "id": "vcfparser",
+  "version": "0.1",
+  "description": "A simple vCard parser",
+  "keywords": [ "vcard", "vcf", "parser", "json", "contacts" ],
+  "author": "Sergi Mansilla <sergi.mansilla@gmail.com> (http://sergimansilla.com)",
+  "homepage": "https://github.com/comoyo/vcfparser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comoyo/vcfparser"
+  },
+  "bugs": {
+    "url": "https://github.com/comoyo/vcfparser/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "scripts": {
+    "test": "mocha -R spec -t 5000"
+  }
+}
+
+
