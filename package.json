@@ -1,7 +1,7 @@
 {
   "name": "vcfparser",
   "id": "vcfparser",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A simple vCard parser",
   "keywords": [ "vcard", "vcf", "parser", "json", "contacts" ],
   "author": "Sergi Mansilla <sergi.mansilla@gmail.com> (http://sergimansilla.com)",
